@@ -1,0 +1,44 @@
+.container {
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.navbar {
+    padding: 0px !important;
+}
+
+body {
+    background: rgb(221, 220, 220);
+    color: black;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+    margin-left: 4%;
+    background-color: cadetblue;
+    padding-right: 1%;
+    padding-left: 1%;
+    height: 2%;
+    font-size: 26pt;
+}
+
+.col-md-9 {
+    padding: 2%;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+h3 {
+    color: cadetblue;
+}
+
+footer {
+    color: white;
+    background-color: rgb(34, 34, 34);
+    display: block;
+    font-size: 10pt;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 12%;
+    padding-top: 2%;
+    text-align: center;
+}
