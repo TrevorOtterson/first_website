@@ -22,7 +22,7 @@ footer {
     background-color: rgb(34, 34, 34);
     display: block;
     font-size: 10pt;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
     height: 12%;
@@ -53,4 +53,12 @@ h3 {
 
 .float-left {
     float: left;
+}
+
+html, body {
+    height: 100%;
+}
+  
+.full-height {
+    height: 100%;
 }
