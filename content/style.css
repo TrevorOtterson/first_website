@@ -50,3 +50,7 @@ footer {
 h3 {
     color: cadetblue;
 }
+
+.float-left {
+    float: left;
+}
