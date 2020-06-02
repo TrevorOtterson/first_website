@@ -42,3 +42,18 @@ footer {
     padding-top: 2%;
     text-align: center;
 }
+
+@media screen and (max-width: 768px){
+    .col-md-9 {
+        flex: 0 0 97%;
+        max-width: 97%;
+    }
+}
+
+
+@media screen and (max-width: 640px){
+    .col-md-9 {
+        flex: 0 0 108%;
+        max-width: 108%;
+        }
+}
